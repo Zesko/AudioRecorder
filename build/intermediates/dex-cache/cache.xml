@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_b4d176e8b0aaad17333d25d3ed6262188443c8f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_f71a78089bea2b73b87231f975257ad23e3647a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_b8931a65f5b2e54a879bfcb215ab729b6f6d4a37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3cce60776460361251c14d48f2181f88831c1cc5">
+        <dex dex="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b69f55b2f1a76a41a6eb02a61075b71d8d401ab5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_c9458d758fcacee9fc00f8a72caf01fc651c899a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90c02847b606406c0d7b5b47da53f11e74a5bf5a">
+        <dex dex="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7da5f8861d862f916ee33cb52d8435e3554e2c2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_5474779e23e885134bef912da15584929414fd63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_12cdbd24a4a39c233a997d90ba7d64eba5e70130\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_3a4e18cbbebe4748a5bf8d34e7f554d68d768a0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_afd4d10c70fee692d96826f511b27d0b91ba2128\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_fda0afe2cb48456afc6058d18cd836cdb190e41a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="H:\MyFiles\Android\AudioRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_b9ba54b89c0611019df524a0d97608497c1bdd69\classes.dex" />
+    </item>
+
+</items>
